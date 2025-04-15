@@ -75,9 +75,12 @@ http://localhost:8501
 
 ---
 
-## 🧪 Dataset de exemplo incluso
+## Dataset de exemplo incluso
+Você pode começar mesmo sem ter um arquivo próprio! Basta selecionar a opção "Usar dataset de exemplo" no menu da aplicação. Os datasets disponíveis são:
 
-O projeto já inclui um dataset de exemplo criado manualmente chamado `lol_campeoes.csv`, com informações sobre campeões de League of Legends. Você pode utilizá-lo para explorar as funcionalidades do aplicativo.
+🌸 Iris Dataset
+
+🏠 California Housing Dataset
 
 ---
 
