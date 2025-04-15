@@ -1,7 +1,7 @@
 
 # 📊 Aplicativo Interativo de Análise de Dados com Streamlit
 
-Este é um projeto web interativo desenvolvido com **Streamlit** que permite carregar, visualizar e explorar dados de maneira simples e intuitiva. Com ele, você pode fazer o upload de arquivos CSV ou Excel, visualizar tabelas, gerar estatísticas descritivas e criar gráficos diversos — tudo sem escrever uma linha de código!
+Este é um projeto web interativo desenvolvido com **Streamlit** que permite carregar, visualizar e explorar dados de maneira simples e intuitiva. Com ele, você pode fazer o upload de arquivos CSV ou Excel, visualizar tabelas, gerar estatísticas descritivas e criar gráficos diversos.
 
 ---
 
